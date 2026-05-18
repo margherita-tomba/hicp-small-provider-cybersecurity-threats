@@ -37,6 +37,12 @@ This project assumes a fictional outpatient healthcare clinic with:
 
 ---
 
+## Network Architecture and Threat Flow
+
+![HICP Diagram](assets/hicp-diagram.png)
+
+---
+
 ## Frameworks and References
 - HHS 405(d) Health Industry Cybersecurity Practices (HICP)
 - NIST Cybersecurity Framework
