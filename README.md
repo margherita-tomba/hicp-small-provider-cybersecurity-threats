@@ -56,3 +56,9 @@ This project assumes a fictional outpatient healthcare clinic with:
 - Threat analysis
 - Risk mitigation planning
 - Cybersecurity documentation
+
+## Project Documents
+
+- [Small provider checklist](small-provider-checklist.md)
+- [Threat mitigation matrix](threat-mitigation-matrix.md)
+- [Incident response mini playbook](incident-response-mini-playbook.md)
