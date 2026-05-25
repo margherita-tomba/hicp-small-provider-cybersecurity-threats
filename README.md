@@ -59,6 +59,6 @@ This project assumes a fictional outpatient healthcare clinic with:
 
 ## Project Documents
 
-- [Small provider checklist](small-provider-checklist.md)
-- [Threat mitigation matrix](threat-mitigation-matrix.md)
-- [Incident response mini playbook](incident-response-mini-playbook.md)
+- [Small provider checklist](01-small-provider-checklist.md)
+- [Threat mitigation matrix](02-threat-mitigation-matrix.md)
+- [Incident response mini playbook](03-incident-response-mini-playbook.md)
